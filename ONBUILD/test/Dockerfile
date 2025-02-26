@@ -1,1 +1,1 @@
-FROM siva3150/onbuild:v1
+FROM siva3150/on:v1
